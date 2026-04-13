@@ -34,5 +34,5 @@ Tipografías **Playfair Display** (elegancia) y **Poppins** (modernidad).
 |----styles.css   # Hoja de estilos global
 |____img/   # Carpeta de recursos visuales (imágenes locales)
 |----midnight-black.jpg
-|----golden-ocean.jpg
+|----golden-heritage.jpg
 |----ocean-master.jpg
