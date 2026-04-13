@@ -1,0 +1,16 @@
+/* HERO SECTION */
+.hero {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('https://images.unsplash.com/photo-1509048191080-d2984bad6ad5?auto=format&fit=crop&q=80&w=1600') center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white);
+    text-align: center;
+}
+
+.hero h1 { font-family: 'Playfair Display', serif; font-size: 3.5rem; margin-bottom: 20px; }
+
+.section { padding: 80px 0; }
+.dark-bg { background-color: var(--secondary-color); color: var(--white); }
+.center-text { text-align: center; margin-bottom: 40px; }
